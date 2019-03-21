@@ -1,0 +1,12 @@
+[17:30:42] Using gulpfile ~/Official/BitBucket/SoftwareReportGenerator/gulpfile.js
+[17:30:42] Starting 'develop'...
+[17:30:42] Finished 'develop' after 111 ms
+[17:30:42] Starting 'default'...
+[17:30:42] Finished 'default' after 26 μs
+[17:30:42] [nodemon] 1.15.0
+[17:30:42] [nodemon] to restart at any time, enter `rs`
+[17:30:42] [nodemon] watching: *.*
+[17:30:42] [nodemon] starting `node app.js`
+[17:30:43] /home/maha/Official/BitBucket/SoftwareReportGenerator reloaded.
+Express server listening on port 3000
+outside:  {}
